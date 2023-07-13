@@ -236,7 +236,7 @@ span{
 .portfolio-box img{
     width: 100%;
     transition: .5s ease;
-    
+    /* lokesh  */
 }
 
 .portfolio-box .portfolio-layer {
