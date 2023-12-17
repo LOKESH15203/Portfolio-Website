@@ -148,11 +148,17 @@ span{
 
 .btn{
     display: inline-block;
+    color: black;
+    font-weight: 550;
     padding: 1rem 2.8rem;
     background: var(--main-color);
     border-radius: 4rem;
     box-shadow: 0 0 1rem var(--main-color);
     transition: 0.5s ease;
+}
+
+#rest{
+    font-size: 1.4rem;
 }
 
 .btn:hover{
@@ -168,12 +174,16 @@ span{
 }
 
 .about-img img{
-    width: 40rem;
+    width: 35rem;
 }
 
 .heading{
     text-align: center;
     font-size: 4.5rem;
+}
+
+.about_head{
+    font-size: 6rem;
 }
 
 .about-content h2{
@@ -306,7 +316,7 @@ span{
 }
 
 .contact h2 {
-    margin-bottom: 3rem;    
+    margin-bottom: 3rem;
 }
 
 .contact form{
